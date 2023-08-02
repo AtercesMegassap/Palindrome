@@ -1,0 +1,14 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "A simple program that tells whether a word is a palindrome or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Pontes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
